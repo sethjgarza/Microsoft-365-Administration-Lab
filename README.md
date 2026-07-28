@@ -1,10 +1,10 @@
-# Microsoft 365 Administration Lab
+# Microsoft 365 Administration Home Lab
 
 ## Overview
 
-This project documents a hands-on Microsoft 365 Business Premium lab focused on common administrative tasks performed in IT environments. The lab provided practical experience with user management, identity and access management, email administration, collaboration services, security, and endpoint management.
+Built a Microsoft 365 Business Premium lab to gain hands-on experience with cloud administration, identity and access management, email administration, collaboration services, security, and endpoint management.
 
-## Technologies
+## Technologies Used
 
 - Microsoft 365 Business Premium
 - Microsoft Entra ID
@@ -20,12 +20,26 @@ This project documents a hands-on Microsoft 365 Business Premium lab focused on 
 - Configured Multi-Factor Authentication (MFA)
 - Created Microsoft 365 Groups and Security Groups
 - Assigned administrative roles (RBAC)
-- Configured a Conditional Access policy
+- Configured Conditional Access policies
 - Created and managed Exchange shared mailboxes
 - Managed SharePoint site membership and permissions
-- Reviewed Microsoft Defender Secure Score and incidents
-- Navigated through Microsoft Intune device management, compliance policies, and configuration profiles
+- Reviewed Microsoft Defender Secure Score and security incidents
+- Explored Microsoft Intune device management, compliance policies, and configuration profiles
+
+## Lab Environment
+
+**Tenant:** Microsoft 365 Business Premium
+
+**Identity Provider:** Microsoft Entra ID
+
+**Management Portals:**
+- Microsoft 365 Admin Center
+- Microsoft Entra Admin Center
+- Exchange Admin Center
+- SharePoint Admin Center
+- Microsoft Defender Portal
+- Microsoft Intune Admin Center
 
 ## Screenshots
 
-Screenshots documenting each stage of the lab are available in the **Screenshots** folder.
+Screenshots of the Microsoft 365 Admin Center, Microsoft Entra ID, Exchange Online, SharePoint, Microsoft Defender, and Microsoft Intune administration are included in this repository.
