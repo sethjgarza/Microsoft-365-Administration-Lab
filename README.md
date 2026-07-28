@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project documents a hands-on Microsoft 365 Business Premium lab focused on common administrative tasks performed in enterprise IT environments. The lab provided practical experience with user management, identity and access management, email administration, collaboration services, security, and endpoint management.
+This project documents a hands-on Microsoft 365 Business Premium lab focused on common administrative tasks performed in IT environments. The lab provided practical experience with user management, identity and access management, email administration, collaboration services, security, and endpoint management.
 
 ## Technologies
 
@@ -24,7 +24,7 @@ This project documents a hands-on Microsoft 365 Business Premium lab focused on 
 - Created and managed Exchange shared mailboxes
 - Managed SharePoint site membership and permissions
 - Reviewed Microsoft Defender Secure Score and incidents
-- Explored Microsoft Intune device management, compliance policies, and configuration profiles
+- Navigated through Microsoft Intune device management, compliance policies, and configuration profiles
 
 ## Screenshots
 
