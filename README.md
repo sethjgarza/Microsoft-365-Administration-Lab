@@ -42,4 +42,4 @@ Built a Microsoft 365 Business Premium lab to gain hands-on experience with clou
 
 ## Screenshots
 
-Screenshots of the Microsoft 365 Admin Center, user and group management, Multi-Factor Authentication (MFA), Conditional Access, Exchange shared mailboxes, Microsoft Entra sign-in logs, Microsoft Defender Secure Score, SharePoint administration, and Microsoft Intune are included in this repository.
+Screenshots of the Microsoft 365 Admin Center, user and group management, Multi-Factor Authentication (MFA), Conditional Access, Exchange shared mailboxes, Microsoft Entra sign-in logs, admin center access, SharePoint administration, and Microsoft Intune are included in this repository.
